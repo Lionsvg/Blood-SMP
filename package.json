@@ -1,7 +1,7 @@
 {
     "name": "Blood-SMP",
-    "preductname": "Selvania Launcher",
-    "version": "1.0.2",
+    "preductname": "Blood SMP",
+    "version": "1.0.3",
     "description": "Launcher Mincraft pour le serveur Selvania",
     "main": "src/app.js",
     "author": {
